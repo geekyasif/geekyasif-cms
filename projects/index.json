@@ -2,8 +2,8 @@
   {
     "id": 12,
     "slug": "pharmnex",
-    "codeUrl": "",
-    "liveUrl": "",
+    "codeUrl": "https://github.com/geekyasif",
+    "liveUrl": "https://uat.pharmnex.app",
     "imageUrl": "",
     "title": "Pharmnex",
     "tags": ["React.js", "Node.js", "PostgreSQL"]
@@ -11,8 +11,8 @@
   {
     "id": 13,
     "slug": "quickhelp-services",
-    "codeUrl": "",
-    "liveUrl": "",
+    "codeUrl": "https://github.com/geekyasif",
+    "liveUrl": "www.quickhelpservices.com",
     "imageUrl": "",
     "title": "QuickHelp Services",
     "tags": ["Next.js", "React Native", "Node.js", "Python", "PostgreSQL"]
@@ -20,8 +20,8 @@
   {
     "id": 14,
     "slug": "news-sentiment-analysis",
-    "codeUrl": "",
-    "liveUrl": "",
+    "codeUrl": "https://github.com/geekyasif/sentiment-analysis-backend-task",
+    "liveUrl": "https://github.com/geekyasif/sentiment-analysis-backend-task",
     "imageUrl": "",
     "title": "News Sentiment Analysis System",
     "tags": ["Flask", "React.js", "TextBlob", "VADER", "FinBERT"]
@@ -29,8 +29,8 @@
   {
     "id": 15,
     "slug": "real-time-polling-kafka",
-    "codeUrl": "",
-    "liveUrl": "",
+    "codeUrl": "https://github.com/asifatlifease/pollpe_mohdasif",
+    "liveUrl": "https://github.com/asifatlifease/pollpe_mohdasif",
     "imageUrl": "",
     "title": "Real-Time Polling System (Kafka-based)",
     "tags": ["Node.js", "Kafka", "React.js"]
