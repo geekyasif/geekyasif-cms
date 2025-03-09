@@ -1,0 +1,148 @@
+[
+  {
+    "id": 12,
+    "slug": "pharmnex",
+    "codeUrl": "",
+    "liveUrl": "",
+    "imageUrl": "pharmnex.png",
+    "title": "Pharmnex (Adit Pharmnex Client)",
+    "tags": ["React.js", "Node.js", "PostgreSQL"]
+  },
+  {
+    "id": 13,
+    "slug": "quickhelp-services",
+    "codeUrl": "",
+    "liveUrl": "",
+    "imageUrl": "quickhelp_services.png",
+    "title": "QuickHelp Services",
+    "tags": ["Next.js", "React Native", "Node.js", "Python", "PostgreSQL"]
+  },
+  {
+    "id": 14,
+    "slug": "news-sentiment-analysis",
+    "codeUrl": "",
+    "liveUrl": "",
+    "imageUrl": "news_sentiment.png",
+    "title": "News Sentiment Analysis System",
+    "tags": ["Flask", "React.js", "TextBlob", "VADER", "FinBERT"]
+  },
+  {
+    "id": 15,
+    "slug": "real-time-polling-kafka",
+    "codeUrl": "",
+    "liveUrl": "",
+    "imageUrl": "polling_system.png",
+    "title": "Real-Time Polling System (Kafka-based)",
+    "tags": ["Node.js", "Kafka", "React.js"]
+  },
+  {
+    "id": 1,
+    "slug": "campus-connect",
+    "codeUrl": "https://github.com/geekyasif/campus-connect-frontend",
+    "liveUrl": "https://connectcampus.vercel.app/",
+    "imageUrl": "campus_connect.png",
+    "title": "Campus Connect",
+    "description": "A platform that connects students within a campus to share resources, discuss topics, and collaborate on projects.",
+    "tags": ["React.js", "Firebase", "Tailwindcss", "Redux Toolkit"]
+  },
+  {
+    "id": 2,
+    "slug": "openinapp-board-dashboard",
+    "codeUrl": "https://github.com/geekyasif/openinapp-board",
+    "liveUrl": "https://openinapp-board.vercel.app/",
+    "imageUrl": "board.png",
+    "title": "Board",
+    "description": "A simple and elegant task management board to track tasks and organize projects efficiently.",
+    "tags": ["Next.js - 13", "Tailwindcss"]
+  },
+  {
+    "id": 3,
+    "slug": "food-truck",
+    "codeUrl": "https://github.com/geekyasif/tif-foodtruck",
+    "liveUrl": "https://tif-foodtruck.vercel.app/",
+    "imageUrl": "foodtruck.png",
+    "title": "Food Truck",
+    "description": "An online food truck ordering platform that allows users to browse and order food items with real-time updates.",
+    "tags": ["Next.js - 13", "Firebase", "Tailwindcss", "Redux Toolkit"]
+  },
+  {
+    "id": 4,
+    "slug": "getmynotes",
+    "codeUrl": "https://github.com/geekyasif/getmynotes",
+    "liveUrl": "https://getmynotes.vercel.app/signin",
+    "imageUrl": "bca_notes.png",
+    "title": "GetMyNotes",
+    "description": "A note-sharing platform for students to upload, organize, and access study materials easily.",
+    "tags": ["React.js", "Firebase", "Tailwindcss", "Redux Toolkit"]
+  },
+  {
+    "id": 5,
+    "slug": "amazon-clone",
+    "codeUrl": "",
+    "liveUrl": "https://amazon-clone-5r41opvys-geekyasif.vercel.app/",
+    "imageUrl": "project_image_1.png",
+    "title": "Amazon Clone",
+    "description": "A fully functional e-commerce web app inspired by Amazon, with user authentication, product listings, and a shopping cart.",
+    "tags": ["Next.js - 12", "React.js", "Firebase", "Tailwindcss", "Redux"]
+  },
+  {
+    "id": 6,
+    "slug": "chatty",
+    "codeUrl": "https://github.com/geekyasif/react-node-chat-app",
+    "liveUrl": "https://github.com/geekyasif/react-node-chat-app",
+    "imageUrl": "chat.png",
+    "title": "Chhaty | Group Chat",
+    "description": "A real-time group chat application with WebSockets, allowing users to communicate instantly.",
+    "tags": ["Node.js", "React.js", "Socket.io", "Tailwindcss"]
+  },
+  {
+    "id": 7,
+    "slug": "online-compiler",
+    "codeUrl": "https://github.com/geekyasif/nodejs-online-compiler",
+    "liveUrl": "https://github.com/geekyasif/nodejs-online-compiler",
+    "imageUrl": "compiler.jpeg",
+    "title": "Online Web Compiler",
+    "description": "An online code compiler that supports multiple programming languages, built using React and Monaco Editor.",
+    "tags": ["React.js", "Rest Api", "Monaco Editor"]
+  },
+  {
+    "id": 8,
+    "slug": "geekcss",
+    "codeUrl": "https://github.com/geekyasif/webpack-learning/tree/main/geekscss",
+    "liveUrl": "https://github.com/geekyasif/webpack-learning/tree/main/geekscss",
+    "imageUrl": "webpack.png",
+    "title": "Css Component Library - GeekCss",
+    "description": "A lightweight CSS component library built using Webpack for easy styling and UI components.",
+    "tags": ["Webpack"]
+  },
+  {
+    "id": 9,
+    "slug": "scaler-frontend-task",
+    "codeUrl": "",
+    "liveUrl": "",
+    "imageUrl": "scaler_task.png",
+    "title": "Frontend Scaler Task",
+    "description": "A frontend challenge completed for Scaler, showcasing advanced UI design and Next.js features.",
+    "tags": ["Next.js", "React.js", "Firebase", "Tailwindcss"]
+  },
+  {
+    "id": 10,
+    "slug": "online-pizza-delivery",
+    "codeUrl": "https://github.com/geekyasif/online-pizza-frontend-reactjs",
+    "liveUrl": "https://github.com/geekyasif/online-pizza-frontend-reactjs",
+    "imageUrl": "pizza.png",
+    "title": "Online Pizza Delivery",
+    "description": "An online pizza ordering system with user authentication, order tracking, and Firebase integration.",
+    "tags": ["Node", "React", "Firebase", "Tailwindcss"]
+  },
+  {
+    "id": 11,
+    "slug": "codedamn-clone",
+    "codeUrl": "",
+    "liveUrl": "",
+    "imageUrl": "codedamn.png",
+    "title": "Codedamn Clone",
+    "description": "A learning platform inspired by Codedamn, offering coding exercises and real-time code execution.",
+    "tags": ["Next.js", "React.js", "Firebase", "Tailwindcss"]
+  }
+]
