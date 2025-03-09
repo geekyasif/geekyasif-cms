@@ -4,7 +4,7 @@
     "slug": "pharmnex",
     "codeUrl": "",
     "liveUrl": "",
-    "imageUrl": "pharmnex.png",
+    "imageUrl": "",
     "title": "Pharmnex (Adit Pharmnex Client)",
     "tags": ["React.js", "Node.js", "PostgreSQL"]
   },
@@ -13,7 +13,7 @@
     "slug": "quickhelp-services",
     "codeUrl": "",
     "liveUrl": "",
-    "imageUrl": "quickhelp_services.png",
+    "imageUrl": "",
     "title": "QuickHelp Services",
     "tags": ["Next.js", "React Native", "Node.js", "Python", "PostgreSQL"]
   },
@@ -22,7 +22,7 @@
     "slug": "news-sentiment-analysis",
     "codeUrl": "",
     "liveUrl": "",
-    "imageUrl": "news_sentiment.png",
+    "imageUrl": "",
     "title": "News Sentiment Analysis System",
     "tags": ["Flask", "React.js", "TextBlob", "VADER", "FinBERT"]
   },
@@ -31,7 +31,7 @@
     "slug": "real-time-polling-kafka",
     "codeUrl": "",
     "liveUrl": "",
-    "imageUrl": "polling_system.png",
+    "imageUrl": "",
     "title": "Real-Time Polling System (Kafka-based)",
     "tags": ["Node.js", "Kafka", "React.js"]
   },
